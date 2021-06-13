@@ -1,4 +1,4 @@
 [[headers]]
     for = "/*"
     [headers.values]
-        Content-Security-Policy = "default-src 'self'; style-src 'self';"
+        Content-Security-Policy = "default-src 'self'; style-src https://font.googleapis.com 'self' https://maxcdn.bootstrapcdn.com;"
