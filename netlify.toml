@@ -3,3 +3,9 @@
     [headers.values]
         Content-Security-Policy = "default-src 'self'; style-src fonts.googleapis.com 'self' maxcdn.bootstrapcdn.com 'unsafe-inline'; font-src fonts.gstatic.com 'self'"
         X-Frame-Options = "DENY"
+
+[[redirects]]
+    from = "/invite"
+    to = "https://discord.com/api/oauth2/authorize?client_id=758205623401447476&permissions=0&redirect_uri=http%3A%2F%2Flocalhost%3A8000%2Fhome&scope=bot"
+    status = 200
+    force = true
