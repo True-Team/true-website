@@ -1,7 +1,7 @@
 [[headers]]
     for = "/*"
     [headers.values]
-        Content-Security-Policy = "default-src 'self' storage.ko-fi.com; style-src storage.ko-fi.com fonts.googleapis.com 'self' maxcdn.bootstrapcdn.com 'unsafe-inline'; font-src fonts.gstatic.com 'self'; script-src 'self' storage.ko-fi.com www.clarity.ms 'unsafe-inline'"
+        Content-Security-Policy = "default-src storage.ko-fi.com 'self' storage.ko-fi.com; style-src storage.ko-fi.com fonts.googleapis.com 'self' maxcdn.bootstrapcdn.com 'unsafe-inline'; font-src fonts.gstatic.com 'self'; script-src 'self' storage.ko-fi.com www.clarity.ms 'unsafe-inline'"
         X-Frame-Options = "DENY"
 
 [[redirects]]
