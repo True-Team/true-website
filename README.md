@@ -17,6 +17,8 @@
 <a href="https://github.com/True-Team/True-Web-Site/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/True-Team/True-Web-Site"></a>
 <a href="https://github.com/True-Team/True-Web-Site/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/True-Team/True-Web-Site"></a>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y04GBML)
+
 <section id="introduction">
     <h1>What is True Website?</h1>
     <p>Welcome to the official <a href="https://truebot.xyz">True Bot Website</a> repository. Here you'll find all the
@@ -79,6 +81,7 @@
 
 <section id="contribute">
     <h1>🧡Contribute to the project</h1>
+    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y04GBML)
     <p>We sincerely thank every user who enters and becomes part of our community and who will make his own contribution
         to ensure the sustainability of the project in all its parts.<br>
         If you want to support the project even more, you can <a href="https://ko-fi.com/salcode">make donations to the
