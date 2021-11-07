@@ -81,7 +81,6 @@
 
 <section id="contribute">
     <h1>🧡Contribute to the project</h1>
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y04GBML)
     <p>We sincerely thank every user who enters and becomes part of our community and who will make his own contribution
         to ensure the sustainability of the project in all its parts.<br>
         If you want to support the project even more, you can <a href="https://ko-fi.com/salcode">make donations to the
