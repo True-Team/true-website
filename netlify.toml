@@ -6,6 +6,7 @@
         X-Content-Type-Options = "nosniff"
 
 [[redirects]]
-    from = "https://discord.com/api/oauth2/authorize?client_id=758205623401447476&permissions=8&scope=bot%20applications.commands"
+    from = "/invite"
+    to = "https://discord.com/api/oauth2/authorize?client_id=758205623401447476&permissions=8&scope=bot%20applications.commands"
     status = 200
     force = true
